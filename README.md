@@ -7,6 +7,6 @@ It's super easy to use in that it can be used the same way as "ImageView" on And
 > <com.c35.nmt.widgets.SuperImageView
 >  android:layout_width="fill_parent"
 >  android:layout_height="fill_parent"
->	 android:src="@drawable/sample" /\>
+>	 android:src="@drawable/sample" />
 
 Also you need to change the package name according to your own project.
